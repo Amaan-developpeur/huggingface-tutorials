@@ -4,6 +4,7 @@ This repository contains step-by-step learning projects with Hugging Face Transf
 Each folder demonstrates a core NLP task using pre-trained models.
 
 # Structure
+```
 
 huggingface-tutorials/
 ├── classification/
@@ -15,6 +16,7 @@ huggingface-tutorials/
 │   ├── hugging_face_t5_summarization.ipynb
 │   └── README.md
 └── README.md  <-- Overview of the repository
+```
 
 ## Projects
 
