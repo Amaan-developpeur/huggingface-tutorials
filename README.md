@@ -1,28 +1,20 @@
----
+# Hugging Face Tutorials
 
-# Hugging Face Tutorials 
- 
-This repository contains my step-by-step learning projects with Hugging Face Transformers.
+This repository contains step-by-step learning projects with Hugging Face Transformers.
 Each folder demonstrates a core NLP task using pre-trained models.
 
 # Structure
-```
+
 huggingface-tutorials/
-│
 ├── classification/
 │   ├── hugging_face_classification.ipynb
 │   └── README.md
-│
 ├── text_generation/
 │   └── hugging_face_gpt2_generation.ipynb
-│
 ├── summarization/
 │   ├── hugging_face_t5_summarization.ipynb
 │   └── README.md
-│
 └── README.md  <-- Overview of the repository
-
-```
 
 ## Projects
 
@@ -40,6 +32,3 @@ huggingface-tutorials/
 ## Goal
 
 To build familiarity with Hugging Face basics (loading datasets, using pipelines, evaluating models) as a foundation before moving into LangChain and LangGraph projects.
-
----
-
