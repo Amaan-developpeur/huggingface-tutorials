@@ -20,9 +20,9 @@ huggingface-tutorials/
 
 ## Projects
 
-* **Classification** → Sentiment analysis on IMDB dataset using `bert-base-uncased`.
-* **Text Generation** → Creative text generation with `gpt2`.
-* **Summarization** → Abstractive summarization using `t5-small`.
+* **Classification** → Sentiment analysis on IMDB dataset using `bert-base-uncased` {Encoder Only Architecture}.
+* **Text Generation** → Creative text generation with `gpt2` {Decoder Only Architecture}.
+* **Summarization** → Abstractive summarization using `t5-small` {Encoder-Decoder Architecture}.
 
 ## Tech Stack
 
